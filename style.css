@@ -1,0 +1,98 @@
+*{
+	margin: 0;
+	padding: 0;
+	background: black;
+	font-family: 'Arial' , sans-serif;
+}
+.h{
+	color: #fff;
+}
+a{
+	text-decoration: none;
+}
+.header{
+	text-align: center;
+}
+.nav{
+	text-align: center;
+}
+.e{
+	padding: 8px;
+	border-radius: 6px;
+	border: none;
+	color: #000;
+	background: #eee;
+}
+.adam{
+	width: 140px;
+	border-radius: 11px;
+}
+.img{
+	width: 140px;
+	border-radius: 125px;
+}
+.quq{
+	width: 32px;
+	border-radius: 25px;
+}
+.imag{
+	text-align: center;
+	display: flex;
+	align-items: center;
+}
+.ado{
+	width: 20px;
+	height: 20px;
+}
+.ia{
+	text-align: center;
+	display: flex;
+	align-items: center;
+}
+.head{
+	text-align: center;
+	color: #fff;
+}
+.h {
+      display: inline-block;
+      text-align: center;
+      margin: 10px;
+    }
+
+    .h img {
+      width: 80px;
+      height: 80px;
+    }
+
+    .h span {
+      display: block;
+      margin-top: 5px;
+    }
+
+    @media (max-width: 768px) {
+      .h span {
+        display: none;
+      }
+    }
+.images,.image{
+	white-space: nowrap;
+}
+@media( max-width: 768px){
+	.images,.image{
+		overflow-x: scroll;
+		white-space: nowrap;
+	}
+}
+h2{
+	color: #fff;
+}
+.apna{
+	width: 150px;
+	border-radius: 11px;
+}
+.exp{
+	text-align: center;
+}
+.hl{
+	
+}
